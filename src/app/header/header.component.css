@@ -8,5 +8,11 @@ nav {
 }
 
 .logo {
-    width:10%;
+    max-width:350px;
+    height: auto;
 }
+
+#search {
+    padding-right: 10px;
+    margin-left: 10px;
+  }
