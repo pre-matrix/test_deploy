@@ -1,5 +1,10 @@
-.signin {
+#loginform {
+    padding-top: 30px;
     padding-left: 20px;
+}
+
+.signin {
+    padding-left: 15px;
     padding-top: 10px;
     
 }
@@ -7,4 +12,11 @@
 .form-group {
     min-width: 400px;
     height: auto;
+}
+
+.loginbut {
+    width: 350px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
 }
